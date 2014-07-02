@@ -1,8 +1,7 @@
 Polls
 =====
 
-A real-time polls application with Node.js, Express, AngularJS, and MongoDB.
+A full MEAN stack application! also includes socket.io for data transfer.
 
+Polls is a voting system that updates in real time using socket.io with the MEAN stack combination (MongoDB, Express, AngularJS and Node.js).
 
-The application was built using the following guide:
-    http://www.ibm.com/developerworks/web/library/wa-nodejs-polling-app/index.html?ca=drs-
